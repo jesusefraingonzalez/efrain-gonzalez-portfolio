@@ -36,19 +36,25 @@
     <div class="col-5">
         <!-- contact input form -->
         <form>
-            <div class="form-group">
-                <label for="name">Name</label>
-                <input type="text" class="form-control" id="formGroupExampleInput"
-                    placeholder="Example input placeholder">
-            </div>
-            <div class="form-group">
-                <label for="email">Email</label>
-                <input type="text" class="form-control" id="formGroupExampleInput2"
-                    placeholder="Another input placeholder">
-            </div>
-            <div class="form-group">
-                <label for="message">Message</label>
-                <input type="text" class="form" id="formGroupExampleInput" placeholder="Please type your message here">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                  <span class="input-group-text" id="basic-addon3">Name</span>
+                </div>
+                <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+              </div>
+
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                  <span class="input-group-text" id="basic-addon3">Email</span>
+                </div>
+                <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+              </div>
+
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">Message</span>
+                </div>
+                <textarea class="form-control" aria-label="With textarea"></textarea>
             </div>
         </form>
     </div>
