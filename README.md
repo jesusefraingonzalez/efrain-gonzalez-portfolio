@@ -1,4 +1,4 @@
-# Portfolio
+# Efrain Gonzalez Portfolio
 
 ## Introduction
 
@@ -10,7 +10,9 @@ The webite contains navs to three seperate pages on the top navbar. Clicking on 
 
 ## Design
 
+Website is constructed using responsive Bootstrap elements to ensure a website resizes to fit the screen in which it is being viewed.
 Sticky navbar implemented using Bootstrap `fixed-top` class to make links easily accessible for navigation. 
+
 
 ## Files and Directory
 * Assets
