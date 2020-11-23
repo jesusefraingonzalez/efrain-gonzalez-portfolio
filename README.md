@@ -23,4 +23,4 @@ Sticky navbar implemented using Bootstrap `fixed-top` class to make links easily
 * README.md
 
 ## Link
-[Link to Live Website](https://jesusefraingonzalez.github.io/efrain-gonzalez-portfolio/index.html)# password-generator
+[Link to Live Website](https://jesusefraingonzalez.github.io/efrain-gonzalez-portfolio/index.html)
