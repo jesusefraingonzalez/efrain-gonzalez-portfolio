@@ -3,3 +3,7 @@
     clear: both;
     display: table;
 }
+
+.container{
+    padding-bottom: 10px;
+}
